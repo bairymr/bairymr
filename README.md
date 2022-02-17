@@ -1,5 +1,5 @@
 - 👋 Ola, Name is Raghav (@bairymr)
-- 🌱 Learning Ruby/Rails/Graphql/Elasticsearch/Kafka/Graphql/React/Java/Spring
+- 🌱 There is no secret ingredient.
 - 📫 How to reach me - Slack handle - @Raghav
 
 <!---
