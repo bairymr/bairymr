@@ -1,4 +1,3 @@
-- 👋 Ola, Name is Raghav (@bairymr)
 - 🌱 There is no secret ingredient.
 - 📫 How to reach me - Slack handle - @Raghav
 
